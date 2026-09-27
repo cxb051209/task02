@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">test02</string>
+    <string name="one_one">One,One</string>
+    <string name="one_two">One,Two</string>
+    <string name="one_three">One,Three</string>
+    <string name="one_four">One,Four</string>
+    <string name="two_one">Two,One</string>
+    <string name="two_two">Two,Two</string>
+    <string name="two_three">Two,Three</string>
+    <string name="two_four">Two,Four</string>
+    <string name="three_one">Three,One</string>
+    <string name="three_two">Three,Two</string>
+    <string name="three_three">Three,Three</string>
+    <string name="three_four">Three,Four</string>
+    <string name="four_one">Four,One</string>
+    <string name="four_two">Four,Two</string>
+    <string name="four_three">Four,Three</string>
+    <string name="four_four">Four,Four</string>
+
+    <string name="calc_title">ConstraintLayoutTest</string>
+    <string name="calc_input">Input</string>
+    <string name="calc_default">0.0</string>
+    <string name="calc_7">7</string>
+    <string name="calc_8">8</string>
+    <string name="calc_9">9</string>
+    <string name="calc_plus">+</string>
+    <string name="calc_4">4</string>
+    <string name="calc_5">5</string>
+    <string name="calc_6">6</string>
+    <string name="calc_minus">-</string>
+    <string name="calc_1">1</string>
+    <string name="calc_2">2</string>
+    <string name="calc_3">3</string>
+    <string name="calc_multiply">*</string>
+    <string name="calc_dot">.</string>
+    <string name="calc_0">0</string>
+    <string name="calc_equal">=</string>
+    <string name="calc_divide">/</string>
+
+    <string name="tab_space_stations">Space Stations</string>
+    <string name="tab_flights">Flights</string>
+    <string name="tab_rovers">Rovers</string>
+
+    <string name="desc_space_station">空间站</string>
+    <string name="desc_rocket">火箭</string>
+    <string name="desc_rover">月球车</string>
+    <string name="desc_swap">交换</string>
+    <string name="desc_galaxy">星球</string>
+    <string name="label_dca">DCA</string>
+    <string name="label_mars">MARS</string>
+    <string name="label_one_way">One Way</string>
+    <string name="label_traveller">1 Traveller</string>
+    <string name="btn_depart">DEPART</string>
+
+</resources>
